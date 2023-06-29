@@ -1,0 +1,15 @@
+2023-06-23 10:19:29+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.33-1.el8 started.
+2023-06-23 10:19:29+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+2023-06-23 10:19:29+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.33-1.el8 started.
+2023-06-23 10:19:30+00:00 [Note] [Entrypoint]: Initializing database files
+2023-06-23 10:19:38+00:00 [Note] [Entrypoint]: Database files initialized
+2023-06-23 10:19:38+00:00 [Note] [Entrypoint]: Starting temporary server
+2023-06-23 10:19:39+00:00 [Note] [Entrypoint]: Temporary server started.
+'/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
+2023-06-23 10:19:43+00:00 [Note] [Entrypoint]: GENERATED ROOT PASSWORD: XZ506+I4MvsGwUO1SBOphDHeernU7AlD
+
+2023-06-23 10:19:43+00:00 [Note] [Entrypoint]: Stopping temporary server
+2023-06-23 10:19:46+00:00 [Note] [Entrypoint]: Temporary server stopped
+
+2023-06-23 10:19:46+00:00 [Note] [Entrypoint]: MySQL init process done. Ready for start up.
+
